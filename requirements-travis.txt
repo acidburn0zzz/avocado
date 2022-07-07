@@ -4,7 +4,7 @@ Sphinx==1.3b1
 flexmock==0.9.7
 inspektor==0.2.2
 pep8==1.6.2
-requests==1.2.3
+requests==2.20.0
 PyYAML==3.11
 Pillow==2.2.1
 snakefood==1.4
