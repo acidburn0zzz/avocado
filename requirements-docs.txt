@@ -1,6 +1,6 @@
 # All pip installable requirements pinned for readthedocs.org
 fabric==1.10.0
-requests==1.2.3
+requests==2.20.0
 PyYAML==3.11
 Pillow==2.6.1
 aexpect==1.0.0
