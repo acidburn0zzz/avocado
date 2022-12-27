@@ -18,4 +18,4 @@ stevedore==1.20.0
 lxml>=3.4.4
 # some setuptools versions can fail accessing
 # pkg_resources.packaging, let's pin the version
-setuptools==25.1.1
+setuptools==65.5.1
