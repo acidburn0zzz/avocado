@@ -1,9 +1,9 @@
 # Avocado functional requirements
 # multiplexer (avocado.core.tree)
-PyYAML>=3.11
+PyYAML>=6.0.3
 # .tar.xz support (avocado.utils.archive)
 pyliblzma>=0.5.3
 # REST client (avocado.core.restclient)
-requests>=1.2.3
+requests>=2.33.0
 # stevedore for loading "new style" plugins
 stevedore>=1.8.0
