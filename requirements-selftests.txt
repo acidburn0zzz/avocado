@@ -1,6 +1,6 @@
 # Avocado test requirements
 # Setuptools
-setuptools>=18.0.0
+setuptools>=84.1.0
 # sphinx (doc build test)
 Sphinx>=1.3b1
 # flexmock (some unittests use it)
